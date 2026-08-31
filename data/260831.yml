@@ -1,0 +1,59 @@
+about:
+  description: 🦋 A tool to manage versioning and changelogs with a focus on monorepos
+  license: MIT
+  homepage: https://changesets.dev
+  head: a0a4dc6
+  archived: false
+  latestVersion: @changesets/cli@3.0.1
+  collectedAt: 2026-08-31T06:15:45Z
+timeline:
+  created: 2019-03-21
+  lastCommit: 2026-08-26
+  lastRelease: 2026-08-19
+popularity:
+  star: 12344
+  watcher: 43
+  fork: 821
+  release: 591
+  contributor: 205
+  pullRequest: 414
+  issue: 807
+language:
+  TypeScript: 912301
+  JavaScript: 3811
+  CSS: 2727
+  Vue: 1203
+totalLine: 920042
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 43
+    mergedPR: 45
+    openPR: 14
+    closedIssue: 2
+    openIssue: 8
+    commit: 36
+  last90d:
+    since: 2026-06-02
+    release: 51
+    mergedPR: 135
+    openPR: 18
+    closedIssue: 16
+    openIssue: 14
+    commit: 129
+  last180d:
+    since: 2026-03-04
+    release: 94
+    mergedPR: 213
+    openPR: 21
+    closedIssue: 31
+    openIssue: 23
+    commit: 225
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 270
+    openPR: 24
+    closedIssue: 61
+    openIssue: 30
+    commit: 291
