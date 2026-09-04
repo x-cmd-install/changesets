@@ -7,7 +7,7 @@ about:
   head: d7e4a2d
   archived: false
   latestVersion: @changesets/release-utils@1.0.1
-  collectedAt: 2026-09-04T20:10:35Z
+  collectedAt: 2026-09-04T20:33:56Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-09-04
@@ -84,7 +84,7 @@ total:
   commit: 969
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-09-04T20:10:36Z
+collectedAt: 2026-09-04T20:33:57Z
 loc:
   TypeScript:
     code: 28080
