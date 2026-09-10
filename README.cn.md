@@ -4,7 +4,7 @@
 
 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 
-![changesets](https://repo.x-cmd.io/changesets.svg)
+![changesets](https://repo.x-cmd.io/changesets.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@
 x install changesets
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/changesets/changesets>
-- **官网**: <https://changesets.dev>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `@changesets/release-utils@1.0.1` (2026-09-04)
-- **最近提交**: 2026-09-10
-- **发布时间**: 2026-09-04T07:46:47Z
-
-## 流行度
-
-- **Star**: 12,380 · **Fork**: 830 · **开放 issue**: 808 · **贡献者**: 207
-
-## 累计统计
-
-- **发布数**: 599 · **已合并 PR**: 870 · **开放 PR**: 69 · **已关闭 issue**: 616 · **开放 issue**: 192 · **提交数**: 975
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 30 | 27 | 13 | 2 | 7 | 25 |
-| 90d | 2026-06-12 | 59 | 117 | 17 | 17 | 12 | 124 |
-| 360d | 2025-09-15 | 100 | 280 | 23 | 62 | 29 | 303 |
-
-## 代码规模
+## 代码洞察
 
 合计: **34,252** 行代码（覆盖前 5 种语言、共 **210** 个文件）。
 
@@ -62,6 +34,36 @@ x install changesets
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/changesets/changesets>
+- **官网**: <https://changesets.dev>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `@changesets/release-utils@1.0.1` (2026-09-04)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 12,382 · **Fork**: 830 · **开放 issue**: 808 · **贡献者**: 207
+
+## 累计统计
+
+- **发布数**: 599 · **已合并 PR**: 870 · **开放 PR**: 70 · **已关闭 issue**: 616 · **开放 issue**: 192 · **提交数**: 975
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 30 | 27 | 14 | 2 | 7 | 25 |
+| last60d | 2026-07-12 | 52 | 80 | 18 | 8 | 8 | 83 |
+| 90d | 2026-06-12 | 59 | 117 | 18 | 17 | 12 | 124 |
+| last180d | 2026-03-14 | 100 | 219 | 21 | 31 | 22 | 237 |
+| 360d | 2025-09-15 | 100 | 280 | 24 | 62 | 29 | 303 |
+| last720d | 2024-09-20 | 100 | 364 | 36 | 121 | 46 | 412 |
+
 ## 改进这些数据
 
 changesets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `changesets` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -71,4 +73,4 @@ changesets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:47:57Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:52:16Z._
