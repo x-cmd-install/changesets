@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/release-utils@1.0.1"
   latestRelease: "@changesets/release-utils@1.0.1"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-09-10T17:37:11Z
+  collectedAt: 2026-09-10T23:52:11Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12381
+  star: 12382
   watcher: 45
   fork: 830
   release: 599
@@ -86,7 +86,7 @@ total:
   commit: 975
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-09-10T17:37:13Z
+collectedAt: 2026-09-10T23:52:12Z
 loc:
   TypeScript:
     code: 28261
