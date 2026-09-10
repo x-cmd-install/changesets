@@ -1,24 +1,74 @@
 # changesets
 
+[中文版本](./README.cn.md)
+
 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 
-- **Upstream**: <https://github.com/changesets/changesets>
-- **Homepage**: <https://changesets.dev>
-- **Latest release**: `@changesets/release-utils@1.0.1` (2026-09-04)
-- **Last commit**: 2026-09-09
-- **License**: MIT
-- **Stars**: 12377 · **Forks**: 830 · **Open issues**: 808 · **Contributors**: 206
+![changesets](https://repo.x-cmd.io/changesets.svg)
 
-## Installation
+## Install
 
 ```sh
 x install changesets
 ```
 
-See <https://x-cmd.com/install/changesets> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/changesets/changesets>
+- **Homepage**: <https://changesets.dev>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T20:02:12Z._
+- **Latest**: `@changesets/release-utils@1.0.1` (2026-09-04)
+- **Last commit**: 2026-09-10
+- **Published**: 2026-09-04T07:46:47Z
+
+## Popularity
+
+- **Stars**: 12,380 · **Forks**: 830 · **Open issues**: 808 · **Contributors**: 207
+
+## Totals (cumulative)
+
+- **Releases**: 599 · **Merged PRs**: 870 · **Open PRs**: 69 · **Closed issues**: 616 · **Open issues**: 192 · **Commits**: 975
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 30 | 27 | 13 | 2 | 7 | 25 |
+| 90d | 2026-06-12 | 59 | 117 | 17 | 17 | 12 | 124 |
+| 360d | 2025-09-15 | 100 | 280 | 23 | 62 | 29 | 303 |
+
+## Code size
+
+Total: **34,252** lines of code across **210** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 28,261 | 733 | 2,903 | 157 |
+| Yaml | 4,494 | 12 | 1,074 | 8 |
+| Json | 1,063 | 0 | 0 | 27 |
+| Svg | 307 | 0 | 0 | 16 |
+| JavaScript | 122 | 3 | 9 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for changesets lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `changesets` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/changesets.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:47:57Z._
