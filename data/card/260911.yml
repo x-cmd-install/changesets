@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/release-utils@1.0.1"
   latestRelease: "@changesets/release-utils@1.0.1"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-09-11T05:42:33Z
+  collectedAt: 2026-09-11T19:26:35Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-04
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12382
+  star: 12384
   watcher: 45
-  fork: 830
+  fork: 831
   release: 599
   contributor: 207
-  pullRequest: 1287
+  pullRequest: 1288
   issue: 808
 language:
   TypeScript: 922192
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-12
     release: 10
     mergedPR: 24
-    openPR: 14
+    openPR: 15
     closedIssue: 2
     openIssue: 6
     commit: 25
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-13
     release: 52
     mergedPR: 79
-    openPR: 18
+    openPR: 19
     closedIssue: 8
     openIssue: 8
     commit: 83
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-13
     release: 59
     mergedPR: 116
-    openPR: 18
+    openPR: 19
     closedIssue: 17
     openIssue: 12
     commit: 124
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-15
     release: 100
     mergedPR: 219
-    openPR: 21
+    openPR: 22
     closedIssue: 31
     openIssue: 22
     commit: 237
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-16
     release: 100
     mergedPR: 280
-    openPR: 24
+    openPR: 25
     closedIssue: 62
     openIssue: 29
     commit: 303
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-21
     release: 100
     mergedPR: 363
-    openPR: 36
+    openPR: 37
     closedIssue: 121
     openIssue: 46
     commit: 412
 total:
   release: 599
   mergedPR: 870
-  openPR: 70
+  openPR: 71
   closedIssue: 616
   openIssue: 192
   commit: 975
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-09-11T05:42:35Z
+collectedAt: 2026-09-11T19:26:38Z
 loc:
   TypeScript:
     code: 28261
