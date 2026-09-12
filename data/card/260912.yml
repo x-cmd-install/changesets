@@ -233,4 +233,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":382556870,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCo1SFM4WzVrG","tag_name":"@changesets/release-utils@1.0.1","target_commitish":"main","name":"@changesets/release-utils@1.0.1","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-09-04T06:36:36Z","updated_at":"2026-09-04T07:46:47Z","published_at":"2026-09-04T07:46:47Z","assets":[],"body":"### Patch Changes\n\n- Updated dependencies []:\n  - @changesets/read@1.0.1"}
