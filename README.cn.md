@@ -4,7 +4,7 @@
 
 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 
-![changesets](https://repo.x-cmd.io/changesets.svg?lang=zh)
+[![x-cmd/install — changesets Code Quality Monitoring Repo Card](https://repo.x-cmd.io/changesets.svg?lang=zh)](https://x-cmd.com/install/changesets)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install changesets
 
 ## 流行度
 
-- **Star**: 12,409 · **Fork**: 833 · **开放 issue**: 810 · **贡献者**: 207
+- **Star**: 12,417 · **Fork**: 833 · **开放 issue**: 810 · **贡献者**: 207
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install changesets
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 14 | 29 | 9 | 4 | 4 | 30 |
-| last60d | 2026-07-20 | 55 | 74 | 16 | 7 | 8 | 81 |
-| 90d | 2026-06-20 | 63 | 120 | 17 | 18 | 10 | 125 |
-| last180d | 2026-03-22 | 100 | 226 | 20 | 33 | 22 | 243 |
-| 360d | 2025-09-23 | 100 | 287 | 23 | 64 | 28 | 310 |
-| last720d | 2024-09-28 | 100 | 369 | 35 | 122 | 45 | 419 |
+| 30d | 2026-08-21 | 12 | 28 | 9 | 4 | 2 | 30 |
+| last60d | 2026-07-22 | 55 | 73 | 15 | 7 | 8 | 81 |
+| 90d | 2026-06-22 | 63 | 114 | 17 | 18 | 10 | 125 |
+| last180d | 2026-03-24 | 100 | 224 | 20 | 32 | 22 | 243 |
+| 360d | 2025-09-25 | 100 | 287 | 23 | 64 | 28 | 310 |
+| last720d | 2024-09-30 | 100 | 369 | 35 | 122 | 45 | 419 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ changesets 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:53:46Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:06:12Z._
