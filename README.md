@@ -4,7 +4,7 @@
 
 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 
-[![x-cmd/install — changesets Code Quality Monitoring Repo Card](https://repo.x-cmd.io/changesets.svg)](https://x-cmd.com/install/changesets)
+[![x-cmd/install — changesets Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/changesets.svg)](https://x-cmd.com/install/changesets)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **34,854** lines of code across **213** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.2 / 10**
+Overall score: **7.3 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,424 · **Forks**: 836 · **Open issues**: 811 · **Contributors**: 207
+- **Stars**: 12,428 · **Forks**: 835 · **Open issues**: 812 · **Contributors**: 207
 
 ## Totals (cumulative)
 
-- **Releases**: 603 · **Merged PRs**: 880 · **Open PRs**: 73 · **Closed issues**: 619 · **Open issues**: 192 · **Commits**: 985
+- **Releases**: 603 · **Merged PRs**: 880 · **Open PRs**: 73 · **Closed issues**: 619 · **Open issues**: 193 · **Commits**: 985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 12 | 27 | 13 | 5 | 2 | 22 |
-| last60d | 2026-07-24 | 55 | 76 | 18 | 7 | 8 | 76 |
-| 90d | 2026-06-24 | 63 | 108 | 21 | 18 | 10 | 108 |
-| last180d | 2026-03-26 | 100 | 227 | 24 | 33 | 22 | 239 |
-| 360d | 2025-09-27 | 100 | 290 | 27 | 65 | 28 | 313 |
-| last720d | 2024-10-02 | 100 | 372 | 39 | 123 | 45 | 422 |
+| 30d | 2026-08-24 | 12 | 22 | 13 | 5 | 3 | 22 |
+| last60d | 2026-07-25 | 55 | 74 | 18 | 7 | 9 | 76 |
+| 90d | 2026-06-25 | 56 | 108 | 21 | 16 | 11 | 108 |
+| last180d | 2026-03-27 | 100 | 227 | 24 | 33 | 23 | 239 |
+| 360d | 2025-09-28 | 100 | 290 | 27 | 65 | 29 | 313 |
+| last720d | 2024-10-03 | 100 | 369 | 39 | 123 | 46 | 422 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for changesets lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:15:36Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:15:04Z._
