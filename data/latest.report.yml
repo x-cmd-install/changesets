@@ -2,25 +2,25 @@ about:
   description: "🦋 A tool to manage versioning and changelogs with a focus on monorepos"
   license: MIT
   homepage: https://changesets.dev
-  head: c73949b
+  head: e2ee472
   archived: false
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-10-16T05:29:53Z
+  collectedAt: 2026-10-17T05:10:17Z
 timeline:
   created: 2019-03-21
-  lastCommit: 2026-09-22
+  lastCommit: 2026-10-16
   lastVersion: 2026-09-14
   lastRelease: 2026-09-14
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12487
+  star: 12490
   watcher: 45
-  fork: 843
+  fork: 845
   release: 603
-  contributor: 208
-  pullRequest: 1311
+  contributor: 209
+  pullRequest: 1312
   issue: 818
 language:
   TypeScript: 932540
@@ -30,63 +30,63 @@ language:
 totalBytes: 940281
 recent:
   last30d:
-    since: 2026-09-16
+    since: 2026-09-17
     release: 0
-    mergedPR: 3
-    openPR: 10
+    mergedPR: 4
+    openPR: 9
     closedIssue: 3
-    openIssue: 7
-    commit: 3
+    openIssue: 5
+    commit: 4
   last60d:
-    since: 2026-08-17
+    since: 2026-08-18
     release: 14
-    mergedPR: 32
+    mergedPR: 33
     openPR: 17
     closedIssue: 7
     openIssue: 9
-    commit: 34
+    commit: 35
   last90d:
-    since: 2026-07-18
+    since: 2026-07-19
     release: 55
-    mergedPR: 82
+    mergedPR: 80
     openPR: 24
     closedIssue: 12
     openIssue: 12
-    commit: 85
+    commit: 86
   last180d:
-    since: 2026-04-19
+    since: 2026-04-20
     release: 100
-    mergedPR: 224
+    mergedPR: 225
     openPR: 27
     closedIssue: 33
-    openIssue: 25
-    commit: 235
+    openIssue: 24
+    commit: 236
   last360d:
-    since: 2025-10-21
+    since: 2025-10-22
     release: 100
-    mergedPR: 284
+    mergedPR: 285
     openPR: 30
     closedIssue: 65
     openIssue: 31
-    commit: 309
+    commit: 310
   last720d:
-    since: 2024-10-26
+    since: 2024-10-27
     release: 100
-    mergedPR: 359
+    mergedPR: 360
     openPR: 42
     closedIssue: 120
     openIssue: 47
-    commit: 402
+    commit: 403
 total:
   release: 603
-  mergedPR: 881
+  mergedPR: 882
   openPR: 76
   closedIssue: 623
   openIssue: 195
-  commit: 985
+  commit: 986
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-10-16T05:29:55Z
+collectedAt: 2026-10-17T05:10:19Z
 loc:
   TypeScript:
     code: 28566
