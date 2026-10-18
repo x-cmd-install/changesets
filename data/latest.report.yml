@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-10-17T05:10:17Z
+  collectedAt: 2026-10-18T05:25:30Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-10-16
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-14
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12490
+  star: 12491
   watcher: 45
-  fork: 845
+  fork: 846
   release: 603
   contributor: 209
-  pullRequest: 1312
-  issue: 818
+  pullRequest: 1313
+  issue: 819
 language:
   TypeScript: 932540
   JavaScript: 3811
@@ -30,63 +30,63 @@ language:
 totalBytes: 940281
 recent:
   last30d:
-    since: 2026-09-17
+    since: 2026-09-18
     release: 0
     mergedPR: 4
-    openPR: 9
+    openPR: 10
     closedIssue: 3
-    openIssue: 5
+    openIssue: 6
     commit: 4
   last60d:
-    since: 2026-08-18
+    since: 2026-08-19
     release: 14
     mergedPR: 33
     openPR: 17
     closedIssue: 7
-    openIssue: 9
+    openIssue: 10
     commit: 35
   last90d:
-    since: 2026-07-19
+    since: 2026-07-20
     release: 55
-    mergedPR: 80
+    mergedPR: 78
     openPR: 24
-    closedIssue: 12
-    openIssue: 12
+    closedIssue: 11
+    openIssue: 13
     commit: 86
   last180d:
-    since: 2026-04-20
+    since: 2026-04-21
     release: 100
     mergedPR: 225
-    openPR: 27
+    openPR: 28
     closedIssue: 33
-    openIssue: 24
+    openIssue: 25
     commit: 236
   last360d:
-    since: 2025-10-22
+    since: 2025-10-23
     release: 100
     mergedPR: 285
-    openPR: 30
+    openPR: 31
     closedIssue: 65
-    openIssue: 31
+    openIssue: 32
     commit: 310
   last720d:
-    since: 2024-10-27
+    since: 2024-10-28
     release: 100
     mergedPR: 360
-    openPR: 42
+    openPR: 43
     closedIssue: 120
-    openIssue: 47
+    openIssue: 48
     commit: 403
 total:
   release: 603
   mergedPR: 882
-  openPR: 76
+  openPR: 77
   closedIssue: 623
-  openIssue: 195
+  openIssue: 196
   commit: 986
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-10-17T05:10:19Z
+collectedAt: 2026-10-18T05:25:31Z
 loc:
   TypeScript:
     code: 28566
