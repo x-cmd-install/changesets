@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-10-20T05:48:16Z
+  collectedAt: 2026-10-21T05:35:30Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-10-16
@@ -30,31 +30,31 @@ language:
 totalBytes: 940281
 recent:
   last30d:
-    since: 2026-09-20
+    since: 2026-09-21
     release: 0
     mergedPR: 1
-    openPR: 10
+    openPR: 9
     closedIssue: 3
     openIssue: 8
     commit: 1
   last60d:
-    since: 2026-08-21
+    since: 2026-08-22
     release: 12
-    mergedPR: 32
+    mergedPR: 31
     openPR: 19
     closedIssue: 8
     openIssue: 10
     commit: 25
   last90d:
-    since: 2026-07-22
+    since: 2026-07-23
     release: 55
     mergedPR: 77
-    openPR: 25
-    closedIssue: 12
+    openPR: 24
+    closedIssue: 11
     openIssue: 15
     commit: 81
   last180d:
-    since: 2026-04-23
+    since: 2026-04-24
     release: 100
     mergedPR: 225
     openPR: 30
@@ -62,15 +62,15 @@ recent:
     openIssue: 26
     commit: 236
   last360d:
-    since: 2025-10-25
+    since: 2025-10-26
     release: 100
-    mergedPR: 285
+    mergedPR: 284
     openPR: 33
     closedIssue: 66
     openIssue: 34
     commit: 310
   last720d:
-    since: 2024-10-30
+    since: 2024-10-31
     release: 100
     mergedPR: 360
     openPR: 45
@@ -86,7 +86,7 @@ total:
   commit: 986
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-10-20T05:48:18Z
+collectedAt: 2026-10-21T05:35:33Z
 loc:
   TypeScript:
     code: 28566
@@ -129,15 +129,19 @@ total:
   blanks: 9246
   files: 299
 ---
-date: "2026-10-12"
+date: "2026-10-19"
 repo:
   name: github.com/changesets/changesets
-  commit: c73949ba7b3160a4aa5729223335c190de1528f8
+  commit: e2ee472cc6c901a0bb29781dac12603f6e4d5215
 scorecard:
   version: v5.6.0
   commit: 61e84743356275f6ffca23b1b2f2cb945e19eb96
 score: 7.7
 checks:
+  - name: Code-Review
+    score: 10
+    reason: all changesets reviewed
+    details: null
   - name: Packaging
     score: -1
     reason: packaging workflow not detected
@@ -145,32 +149,28 @@ checks:
       - 'Warn: no GitHub/GitLab publishing workflow detected.'
   - name: Maintained
     score: 10
-    reason: 30 commit(s) and 11 issue activity found in the last 90 days -- score normalized to 10
-    details: null
-  - name: Code-Review
-    score: 10
-    reason: all changesets reviewed
+    reason: 30 commit(s) and 9 issue activity found in the last 90 days -- score normalized to 10
     details: null
   - name: Dangerous-Workflow
     score: 10
     reason: no dangerous workflow patterns detected
-    details: null
-  - name: Binary-Artifacts
-    score: 10
-    reason: no binaries found in the repo
     details: null
   - name: Token-Permissions
     score: 10
     reason: GitHub workflow tokens follow principle of least privilege
     details:
       - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/ci.yml:47'
-      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/publish.yml:28'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/publish.yml:50'
       - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/publish.yml:84'
       - 'Warn: jobLevel ''contents'' permission set to ''write'': .github/workflows/publish.yml:108'
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/publish.yml:28'
       - 'Info: topLevel ''contents'' permission set to ''read'': .github/workflows/ci.yml:15'
       - 'Info: found token with ''none'' permissions: .github/workflows/pkg-pr-new.yml:1'
       - 'Info: found token with ''none'' permissions: .github/workflows/publish.yml:1'
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
   - name: Pinned-Dependencies
     score: 10
     reason: all dependencies are pinned
@@ -192,10 +192,6 @@ checks:
     reason: project is not fuzzed
     details:
       - 'Warn: no fuzzer integrations found'
-  - name: Signed-Releases
-    score: -1
-    reason: no releases found
-    details: null
   - name: Branch-Protection
     score: 4
     reason: branch protection is not maximal on development and all release branches
@@ -210,6 +206,10 @@ checks:
       - 'Warn: ''up-to-date branches'' is disabled on branch ''main'''
       - 'Info: status check found to merge onto on branch ''main'''
       - 'Info: PRs are required in order to make changes on branch ''main'''
+  - name: Signed-Releases
+    score: -1
+    reason: no releases found
+    details: null
   - name: Security-Policy
     score: 10
     reason: security policy file detected
