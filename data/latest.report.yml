@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-10-24T05:25:49Z
+  collectedAt: 2026-10-25T05:34:09Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-10-16
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-14
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12505
-  watcher: 45
-  fork: 851
+  star: 12510
+  watcher: 43
+  fork: 854
   release: 603
   contributor: 209
-  pullRequest: 1322
+  pullRequest: 1323
   issue: 822
 language:
   TypeScript: 932540
@@ -30,63 +30,63 @@ language:
 totalBytes: 940281
 recent:
   last30d:
-    since: 2026-09-24
+    since: 2026-09-25
     release: 0
     mergedPR: 1
-    openPR: 11
+    openPR: 12
     closedIssue: 2
     openIssue: 6
     commit: 1
   last60d:
-    since: 2026-08-25
+    since: 2026-08-26
     release: 12
     mergedPR: 22
-    openPR: 21
-    closedIssue: 8
+    openPR: 22
+    closedIssue: 7
     openIssue: 10
     commit: 25
   last90d:
-    since: 2026-07-26
+    since: 2026-07-27
     release: 55
-    mergedPR: 75
-    openPR: 26
+    mergedPR: 72
+    openPR: 27
     closedIssue: 11
     openIssue: 15
     commit: 81
   last180d:
-    since: 2026-04-27
+    since: 2026-04-28
     release: 100
     mergedPR: 225
-    openPR: 32
+    openPR: 33
     closedIssue: 31
     openIssue: 26
     commit: 236
   last360d:
-    since: 2025-10-29
+    since: 2025-10-30
     release: 100
-    mergedPR: 284
-    openPR: 35
+    mergedPR: 282
+    openPR: 36
     closedIssue: 66
-    openIssue: 34
+    openIssue: 33
     commit: 310
   last720d:
-    since: 2024-11-03
+    since: 2024-11-04
     release: 100
-    mergedPR: 360
-    openPR: 47
+    mergedPR: 359
+    openPR: 48
     closedIssue: 121
     openIssue: 50
     commit: 402
 total:
   release: 603
   mergedPR: 882
-  openPR: 81
+  openPR: 82
   closedIssue: 624
   openIssue: 198
   commit: 986
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-10-24T05:25:51Z
+collectedAt: 2026-10-25T05:34:10Z
 loc:
   TypeScript:
     code: 28566
