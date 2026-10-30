@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-10-29T06:41:41Z
+  collectedAt: 2026-10-30T06:40:37Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-10-26
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-14
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12543
+  star: 12546
   watcher: 45
-  fork: 855
+  fork: 856
   release: 603
   contributor: 209
-  pullRequest: 1328
+  pullRequest: 1330
   issue: 822
 language:
   TypeScript: 932278
@@ -30,7 +30,7 @@ language:
 totalBytes: 940019
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 2
     openPR: 14
@@ -38,7 +38,7 @@ recent:
     openIssue: 6
     commit: 2
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 12
     mergedPR: 16
     openPR: 24
@@ -46,23 +46,23 @@ recent:
     openIssue: 10
     commit: 21
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 55
-    mergedPR: 70
+    mergedPR: 69
     openPR: 29
     closedIssue: 11
     openIssue: 14
     commit: 73
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 100
     mergedPR: 221
     openPR: 35
-    closedIssue: 30
+    closedIssue: 29
     openIssue: 26
     commit: 218
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
     mergedPR: 281
     openPR: 37
@@ -70,7 +70,7 @@ recent:
     openIssue: 33
     commit: 305
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
     mergedPR: 360
     openPR: 50
@@ -86,7 +86,7 @@ total:
   commit: 987
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-10-29T06:41:43Z
+collectedAt: 2026-10-30T06:40:38Z
 loc:
   TypeScript:
     code: 28557
