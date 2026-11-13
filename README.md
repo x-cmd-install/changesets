@@ -14,12 +14,12 @@ x install changesets
 
 ## Code insight
 
-Total: **34,489** lines of code across **213** files in the top 5 languages.
+Total: **34,474** lines of code across **213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 28,558 | 738 | 2,928 | 158 |
-| Yaml | 4,382 | 13 | 1,029 | 8 |
+| Yaml | 4,367 | 13 | 1,016 | 8 |
 | Json | 1,114 | 0 | 0 | 29 |
 | Svg | 307 | 0 | 0 | 16 |
 | JavaScript | 123 | 3 | 9 | 2 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `@changesets/cli@3.0.3` (2026-09-14)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-13
 
 ## Popularity
 
-- **Stars**: 12,571 · **Forks**: 859 · **Open issues**: 824 · **Contributors**: 209
+- **Stars**: 12,573 · **Forks**: 860 · **Open issues**: 824 · **Contributors**: 209
 
 ## Totals (cumulative)
 
-- **Releases**: 603 · **Merged PRs**: 884 · **Open PRs**: 89 · **Closed issues**: 624 · **Open issues**: 200 · **Commits**: 988
+- **Releases**: 603 · **Merged PRs**: 887 · **Open PRs**: 87 · **Closed issues**: 625 · **Open issues**: 199 · **Commits**: 991
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 3 | 17 | 1 | 6 | 3 |
-| last60d | 2026-09-13 | 4 | 6 | 25 | 4 | 13 | 6 |
-| 90d | 2026-08-14 | 14 | 37 | 30 | 8 | 15 | 37 |
-| last180d | 2026-05-16 | 63 | 177 | 39 | 26 | 25 | 172 |
-| 360d | 2025-11-17 | 100 | 275 | 42 | 62 | 35 | 290 |
-| last720d | 2024-11-22 | 100 | 353 | 55 | 119 | 51 | 398 |
+| 30d | 2026-10-14 | 0 | 6 | 14 | 2 | 5 | 6 |
+| last60d | 2026-09-14 | 4 | 9 | 23 | 5 | 12 | 9 |
+| 90d | 2026-08-15 | 14 | 39 | 28 | 9 | 14 | 40 |
+| last180d | 2026-05-17 | 63 | 180 | 37 | 27 | 24 | 175 |
+| 360d | 2025-11-18 | 100 | 275 | 40 | 61 | 34 | 293 |
+| last720d | 2024-11-23 | 100 | 356 | 52 | 120 | 50 | 396 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for changesets lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:37:10Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:55:16Z._
