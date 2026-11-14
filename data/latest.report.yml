@@ -7,7 +7,7 @@ about:
   latestVersion: "@changesets/cli@3.0.3"
   latestRelease: "@changesets/cli@3.0.3"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-11-13T07:55:06Z
+  collectedAt: 2026-11-14T07:51:06Z
 timeline:
   created: 2019-03-21
   lastCommit: 2026-11-13
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 12573
   watcher: 45
-  fork: 860
+  fork: 861
   release: 603
   contributor: 209
-  pullRequest: 1349
+  pullRequest: 1350
   issue: 824
 language:
   TypeScript: 910179
@@ -28,63 +28,63 @@ language:
 totalBytes: 914057
 recent:
   last30d:
-    since: 2026-10-14
+    since: 2026-10-15
     release: 0
     mergedPR: 6
-    openPR: 14
+    openPR: 15
     closedIssue: 2
     openIssue: 5
     commit: 6
   last60d:
-    since: 2026-09-14
-    release: 4
+    since: 2026-09-15
+    release: 0
     mergedPR: 9
-    openPR: 23
+    openPR: 24
     closedIssue: 5
     openIssue: 12
     commit: 9
   last90d:
-    since: 2026-08-15
+    since: 2026-08-16
     release: 14
-    mergedPR: 39
-    openPR: 28
+    mergedPR: 38
+    openPR: 29
     closedIssue: 9
     openIssue: 14
     commit: 40
   last180d:
-    since: 2026-05-17
+    since: 2026-05-18
     release: 63
-    mergedPR: 180
-    openPR: 37
-    closedIssue: 27
+    mergedPR: 178
+    openPR: 38
+    closedIssue: 26
     openIssue: 24
     commit: 175
   last360d:
-    since: 2025-11-18
+    since: 2025-11-19
     release: 100
-    mergedPR: 275
-    openPR: 40
+    mergedPR: 273
+    openPR: 41
     closedIssue: 61
     openIssue: 34
     commit: 293
   last720d:
-    since: 2024-11-23
+    since: 2024-11-24
     release: 100
     mergedPR: 356
-    openPR: 52
+    openPR: 53
     closedIssue: 120
     openIssue: 50
     commit: 396
 total:
   release: 603
   mergedPR: 887
-  openPR: 87
+  openPR: 88
   closedIssue: 625
   openIssue: 199
   commit: 991
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-11-13T07:55:09Z
+collectedAt: 2026-11-14T07:51:08Z
 loc:
   TypeScript:
     code: 28558
