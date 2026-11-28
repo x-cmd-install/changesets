@@ -2,102 +2,102 @@ about:
   description: "🦋 A tool to manage versioning and changelogs with a focus on monorepos"
   license: MIT
   homepage: https://changesets.dev
-  head: 4f05584
+  head: e7b0711
   archived: false
-  latestVersion: "@changesets/cli@3.0.3"
-  latestRelease: "@changesets/cli@3.0.3"
+  latestVersion: "@changesets/cli@3.1.0"
+  latestRelease: "@changesets/cli@3.1.0"
   latestPrerelease: "@changesets/cli@3.0.0-next.12"
-  collectedAt: 2026-11-27T10:06:47Z
+  collectedAt: 2026-11-28T08:51:09Z
 timeline:
   created: 2019-03-21
-  lastCommit: 2026-11-26
-  lastVersion: 2026-09-14
-  lastRelease: 2026-09-14
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 2026-08-10
 popularity:
-  star: 12604
+  star: 12609
   watcher: 45
-  fork: 867
-  release: 603
+  fork: 868
+  release: 619
   contributor: 210
   pullRequest: 1368
   issue: 828
 language:
-  TypeScript: 916890
+  TypeScript: 945488
   JavaScript: 3878
-totalBytes: 920768
+totalBytes: 949366
 recent:
   last30d:
-    since: 2026-10-28
-    release: 0
+    since: 2026-10-29
+    release: 16
     mergedPR: 8
-    openPR: 19
+    openPR: 18
     closedIssue: 1
     openIssue: 6
-    commit: 9
+    commit: 11
   last60d:
-    since: 2026-09-28
-    release: 0
-    mergedPR: 11
-    openPR: 28
+    since: 2026-09-29
+    release: 16
+    mergedPR: 12
+    openPR: 26
     closedIssue: 4
     openIssue: 11
-    commit: 11
+    commit: 13
   last90d:
-    since: 2026-08-29
-    release: 12
-    mergedPR: 29
-    openPR: 37
+    since: 2026-08-30
+    release: 28
+    mergedPR: 26
+    openPR: 35
     closedIssue: 7
     openIssue: 15
-    commit: 33
+    commit: 35
   last180d:
-    since: 2026-05-31
-    release: 63
+    since: 2026-06-01
+    release: 79
     mergedPR: 170
-    openPR: 46
+    openPR: 43
     closedIssue: 26
     openIssue: 25
-    commit: 167
+    commit: 169
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
-    mergedPR: 276
-    openPR: 49
+    mergedPR: 278
+    openPR: 46
     closedIssue: 60
     openIssue: 37
-    commit: 293
+    commit: 295
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 356
-    openPR: 62
+    mergedPR: 358
+    openPR: 59
     closedIssue: 117
     openIssue: 52
-    commit: 397
+    commit: 399
 total:
-  release: 603
-  mergedPR: 892
-  openPR: 97
+  release: 619
+  mergedPR: 894
+  openPR: 94
   closedIssue: 626
   openIssue: 202
-  commit: 996
+  commit: 998
 ---
 path: /home/runner/.x-repo/github.com/changesets/changesets
-collectedAt: 2026-11-27T10:06:49Z
+collectedAt: 2026-11-28T08:51:10Z
 loc:
   TypeScript:
-    code: 28821
-    comments: 739
-    blanks: 2975
+    code: 29644
+    comments: 757
+    blanks: 2997
     files: 163
   Yaml:
-    code: 4376
+    code: 4391
     comments: 13
     blanks: 1016
     files: 8
   Json:
-    code: 1123
+    code: 1128
     comments: 0
     blanks: 0
     files: 29
@@ -118,13 +118,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 7307
-    blanks: 4711
+    comments: 7489
+    blanks: 4813
     files: 68
 total:
-  code: 35130
-  comments: 8107
-  blanks: 8732
+  code: 36014
+  comments: 8371
+  blanks: 8864
   files: 287
 ---
 date: "2026-11-23"
@@ -225,4 +225,4 @@ checks:
     details:
       - 'Warn: 7 commits out of 30 are checked with a SAST tool'
 ---
-{"id":388506271,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCo1SFM4XKCKf","tag_name":"@changesets/cli@3.0.3","target_commitish":"main","name":"@changesets/cli@3.0.3","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-09-14T14:41:45Z","updated_at":"2026-09-14T15:27:19Z","published_at":"2026-09-14T15:27:19Z","assets":[],"body":"### Patch Changes\n\n- [#2297](https://github.com/changesets/changesets/pull/2297) [`3f163da`](https://github.com/changesets/changesets/commit/3f163da9211babfe835c8ec883ee3085d9a55aab) Thanks [@Andarist](https://github.com/Andarist)! - Fixed semver ranges (such as `>=1.0.0 <2.0.0`) getting cut off (`>=2.0.0`) when updating internal dependencies.\n\n- [#2276](https://github.com/changesets/changesets/pull/2276) [`ca9d110`](https://github.com/changesets/changesets/commit/ca9d1103c209768d213cc5a88ed44f2396fe5854) Thanks [@Andarist](https://github.com/Andarist)! - Fixed pnpm 10 compatibility with npm 12 when reading registry information, packing, and publishing packages.\n- Updated dependencies [[`3f163da`](https://github.com/changesets/changesets/commit/3f163da9211babfe835c8ec883ee3085d9a55aab), [`bfe9050`](https://github.com/changesets/changesets/commit/bfe9050a22061683934cad8529437b2235f1c0b7), [`e522996`](https://github.com/changesets/changesets/commit/e522996c676f911bf43203d8787e17b6e81e4fdf)]:\n  - @changesets/apply-release-plan@8.1.1\n  - @changesets/config@4.0.1"}
+{"id":460939185,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOCo1SFM4beV-x","tag_name":"@changesets/cli@3.1.0","target_commitish":"main","name":"@changesets/cli@3.1.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-27T18:08:15Z","updated_at":"2026-11-27T18:23:15Z","published_at":"2026-11-27T18:23:15Z","assets":[],"body":"### Minor Changes\n\n- [#2346](https://github.com/changesets/changesets/pull/2346) [`b09779a`](https://github.com/changesets/changesets/commit/b09779a3d503a581df98a81384d5849db969eb03) Thanks [@Netail](https://github.com/Netail)! - Added support for formatting with [Biome](https://biomejs.dev/) (version 2.6+).\n\n- [#2183](https://github.com/changesets/changesets/pull/2183) [`bb2ff9b`](https://github.com/changesets/changesets/commit/bb2ff9b1cc8dc12c11eb323f1ac3b26339edf43d) Thanks [@Andarist](https://github.com/Andarist)! - Add support for staging packages for approval before they go live on npm. You can enable it with `\"stagedPublishing\": true` in your Changesets config or by running `changeset publish --stage`. If staging is enabled in your config, you can use `--no-stage` to publish directly.\n\n- [#2365](https://github.com/changesets/changesets/pull/2365) [`1ed9edd`](https://github.com/changesets/changesets/commit/1ed9edda6ed9e7576afea79503b593bba8cd2d9b) Thanks [@beeequeue](https://github.com/beeequeue)! - Now reads frontmatter metadata and passes it to changelog formatter functions:\n\n  ```markdown\n  ---\n  foo: minor\n  _:\n    your: \"metadata here\"\n    any: yaml\n    number: 123\n  ---\n\n  Something changed!\n  ```\n\n  ```ts\n  export default {\n    getReleaseLine: (changeset, changeType, options) => {\n      // { your: \"metadata here\", any: \"yaml\", number: 123 }\n      console.log(changeset.metadata);\n    },\n  };\n  ```\n\n### Patch Changes\n\n- [#2387](https://github.com/changesets/changesets/pull/2387) [`06548ad`](https://github.com/changesets/changesets/commit/06548adc8461e3e3754def2efcafa556f091af71) Thanks [@mixelburg](https://github.com/mixelburg)! - Fixed `remoteTagExists` matching the end instead of full names.\n\n  e.g. `shacl-playground` would also match `@zazuko/shacl-playground`, which it shouldn't.\n\n- Updated dependencies [[`b09779a`](https://github.com/changesets/changesets/commit/b09779a3d503a581df98a81384d5849db969eb03), [`06548ad`](https://github.com/changesets/changesets/commit/06548adc8461e3e3754def2efcafa556f091af71), [`bb2ff9b`](https://github.com/changesets/changesets/commit/bb2ff9b1cc8dc12c11eb323f1ac3b26339edf43d), [`1ed9edd`](https://github.com/changesets/changesets/commit/1ed9edda6ed9e7576afea79503b593bba8cd2d9b), [`1ed9edd`](https://github.com/changesets/changesets/commit/1ed9edda6ed9e7576afea79503b593bba8cd2d9b)]:\n  - @changesets/config@4.1.0\n  - @changesets/types@7.1.0\n  - @changesets/write@1.1.0\n  - @changesets/git@4.0.2\n  - @changesets/apply-release-plan@8.2.0\n  - @changesets/assemble-release-plan@7.1.0\n  - @changesets/read@1.1.0\n  - @changesets/changelog-git@1.0.1\n  - @changesets/get-dependents-graph@3.0.1\n  - @changesets/pre@3.0.1\n  - @changesets/should-skip-package@1.0.1"}
